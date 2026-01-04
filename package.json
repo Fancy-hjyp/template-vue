@@ -22,7 +22,11 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
+    "typescript": "^5.0.0",
     "vite": "^7.1.11",
-    "vite-plugin-vue-devtools": "^8.0.3"
+    "vite-plugin-vue-devtools": "^8.0.3",
+    "@vue/tsconfig": "^0.8.1",
+    "@vue/runtime-core": "^3.5.22",
+    "@types/node": "^20.0.0"
   }
 }
