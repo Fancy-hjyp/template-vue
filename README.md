@@ -19,19 +19,17 @@
 # 快速开始
 1. 克隆项目，下载模板工程
 ```
-git clone xxx
+git clone https://github.com/Fancy-hjyp/template-vue.git
 ```
-
 2. 安装依赖
 ```
 npm install
 ```
-
 3. 启动项目
 ```
 npm run server
 ```
-启动项目成功后，打开浏览器访问 http://localhost:8080，即可访问模板。
+启动项目成功后，打开浏览器访问 http://localhost:5173，即可访问模板。
 
 
 # 项目架构
